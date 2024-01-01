@@ -50,9 +50,3 @@ This Jupyter Notebook provides on a tool for building language model-based chain
 ## Contributing
 Feel free to contribute to the development of Langchain by opening issues or submitting pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Langchain is based on OpenAI's GPT-3.5 architecture.
-
