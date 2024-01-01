@@ -1,7 +1,7 @@
-# Langchain Crash Course
+# Langchain Template
 
 ## Overview
-This Jupyter Notebook provides a crash course on using Langchain, a tool for building language model-based chains to generate creative responses, suggestions, and more. It covers key components such as language models (LLMs), prompt templates, chains, agents, and memory.
+This Jupyter Notebook provides on a tool for building language model-based chains to generate creative responses, suggestions, and more. It covers key components such as language models (LLMs), prompt templates, chains, agents, and memory.
 
 ## Prerequisites
 - Python 3.6 or higher
