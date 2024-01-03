@@ -1,4 +1,6 @@
-openai
 langchain
-google-search-results
-streamlit
+unstructured
+pandas
+chromadb
+tiktoken
+openai
